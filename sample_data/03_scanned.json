@@ -1,0 +1,25 @@
+{
+  "supplier": "Lone Star Coffee Supply",
+  "invoice_number": "INV-1007",
+  "date": "2026-11-20",
+  "lines": [
+    {
+      "sku": "BEV-COF-002",
+      "description": "Medium Roast Beans 1kg",
+      "quantity": 8,
+      "unit_price": 16.75,
+      "line_total": 134.0
+    },
+    {
+      "sku": "BEV-SYR-001",
+      "description": "Vanilla Syrup 750ml",
+      "quantity": 6,
+      "unit_price": 7.4,
+      "line_total": 44.4
+    }
+  ],
+  "subtotal": 178.4,
+  "shipping": 12.0,
+  "tax": 0.0,
+  "total": 190.4
+}

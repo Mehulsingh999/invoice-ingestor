@@ -1,0 +1,32 @@
+{
+  "supplier": "Metro Grocery Wholesale",
+  "invoice_number": "MG-55812",
+  "date": "2026-11-19",
+  "lines": [
+    {
+      "sku": "SNK-CHP-001",
+      "description": "Sea Salt Chips 12pk",
+      "quantity": 10,
+      "unit_price": 9.8,
+      "line_total": 98.0
+    },
+    {
+      "sku": "DRY-MLK-004",
+      "description": "Oat Milk 1L",
+      "quantity": 36,
+      "unit_price": 2.15,
+      "line_total": 79.4
+    },
+    {
+      "sku": "BAK-BRD-002",
+      "description": "Sourdough Loaf",
+      "quantity": 20,
+      "unit_price": 2.6,
+      "line_total": 52.0
+    }
+  ],
+  "subtotal": 229.4,
+  "shipping": 0.0,
+  "tax": 0.0,
+  "total": 229.4
+}
